@@ -1,4 +1,5 @@
 # GNS3-BGP-MPLS-VPN
+Project in "gns3 portable" format
 Simple implementation of an MPLS provider core network and two client networks interconnected via BGP using VRFs.
 
 Using a core network composed of 4 core routers (MPLS/OSPF) and two edge routers (BGP/OSPF/MPLS), the objective is to connect two client entities.
