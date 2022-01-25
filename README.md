@@ -1,4 +1,4 @@
-# GNS3-BGP-MPLS-VPN
+# GNS3 : BGP-MPLS-VPN
 Project in "gns3 portable" format
 
 Simple implementation of an MPLS provider core network and two client networks interconnected via BGP using VRFs.
